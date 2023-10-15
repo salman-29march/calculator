@@ -1,0 +1,26 @@
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    color: blueviolet;
+    text-align: center;
+    font-weight: bolder;
+}
+.div{
+    text-align: center;
+}
+img{
+    width: 600px;
+    height: 600px;
+}
+button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: tomato;
+    color: white;
+    font-size: 1.6rem;
+    cursor:pointer;
+    box-shadow: 2px 3px 10px black;
+    margin-right: 10px;
+}
